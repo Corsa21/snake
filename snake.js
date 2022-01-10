@@ -8,8 +8,6 @@ field.src = 'field.png';
 //еда для змейки
 const food = new Image();
 food.src = 'food.png';
-food.width = '32px';
-food.height = '32px';
 
 let box = 32;
 
